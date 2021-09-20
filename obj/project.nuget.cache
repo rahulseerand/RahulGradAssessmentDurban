@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "voWTckKGSwJVYo1hGTmB9D0FQNPQe/WBjO9JTTsmgpvBQJpym393WGQmotGknp2xpRCo+eIsWasWKcv6yCC9cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rahul\\source\\repos\\GradAssessment\\GradAssessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rahul\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\Rahul\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
